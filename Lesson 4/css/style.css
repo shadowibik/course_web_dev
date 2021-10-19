@@ -1,0 +1,15 @@
+table{
+    width:100%;
+}
+body{
+    background-color:silver;
+}
+td{
+    border:2px solid rgb(3, 2, 2);
+}
+.first{
+    width:30%;
+}
+.second{
+    width:70%;
+}
